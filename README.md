@@ -7,10 +7,10 @@ First line is the output file name
 
 Each of the next lines are divided into groups of 3:
 
-  The first line contains the input file name
+- The first line contains the input file name
   
-  The second line contains the start at which you want to record
+- The second line contains the start at which you want to record
   
-  The third line contains the end at which you want to stop recording
+- The third line contains the end at which you want to stop recording
   
 Keep adding groups of 3 as you wish :)
