@@ -1,6 +1,6 @@
 # Video Trimmer and Splitter
 This is a simple interface to ffmpeg tool. It uses a file called list.txt to get the required names of videos, start times, and end times.
-An example is included in [the file](https://github.com/AhmedYasser5/video_editor/list.txt).
+An example is included in [the file](https://github.com/AhmedYasser5/video_editor/blob/main/list.txt).
 
 ## Syntax for list.txt
 First line is the output file name
